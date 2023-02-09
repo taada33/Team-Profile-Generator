@@ -5,11 +5,15 @@ const Employee = require('./lib/Employee')
 const Manager = require('./lib/Manager')
 const Engineer = require('./lib/Engineer')
 const Intern = require('./lib/Intern');
+const generateHtml = require('./src/generateHtml');
+const generateCss = require('./src/generateCss');
 
 let team = [];
 
+//passes team array to generateHtml and generateCss
 const init = (team) => {
-    console.log(team);
+    generateHtml(team);
+    generateCss();
 }
 
 const addTeam = () => {
