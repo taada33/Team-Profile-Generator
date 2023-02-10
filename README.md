@@ -19,7 +19,7 @@ This project will build an application using HTML and CSS which displays the mem
 
 ## Installation
 
-Simply install any dependencies using "npm install" command, the run the code using the command "node index".
+Simply install any dependencies using "npm install" command, then run the code using the command "node index".
 
 ## Usage
 
