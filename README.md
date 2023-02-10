@@ -24,7 +24,7 @@ Simply install any dependencies using "npm install" command, then run the code u
 ## Usage
 
 Once the code is run, simply provide answers to the prompts generated, and the HTML and CSS files will be created for you in the /dist folder. Please check out this link for instructions on using the code: [https://youtu.be/jvLCVNw3FXM](https://youtu.be/jvLCVNw3FXM)
-    
+
 ## Contributing
 
 There are no contribution guidelines at this time.
