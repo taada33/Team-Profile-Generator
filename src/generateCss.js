@@ -71,7 +71,7 @@ p{
     border: 1px solid black;
 }
 `
-generateCss = () => {
+const generateCss = () => {
     fs.writeFile("..\\Team-Profile-Generator\\dist\\style.css", css, (err) => err ? console.error(err) : console.log('CSS generated!'));
 }
 
